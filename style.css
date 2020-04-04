@@ -1,1 +1,14 @@
 /* Style here */
+body {
+  background-image: url(http://netdna.webdesignerdepot.com/uploads/2015/07/animated-low-poly-svg-background-generator.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+  font-size: 2rem;
+}
+
+section > p {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
